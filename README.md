@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bandieramonte
 - 👀 Senior software engineer focused on building reliable full-stack and integration-driven systems.
-- 🌱 I’m currently working and extending the Smartstore open source commerce platform for a volunteering project.
+- 🌱 I’m currently working on and extending the Smartstore open source commerce platform.
 - 💞️ Interested in collaborating on projects that create meaningful positive impact.
 - 📫 📫 Reach me via GitHub or LinkedIn: https://www.linkedin.com/in/gbandieramonte/
 
